@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "http://yourdomain.com",
-      "destination": "https://yourdomain.com",
+      "source": "http://www.kalpanifernando.com",
+      "destination": "https://www.kalpanifernando.com",
       "permanent": true
     }
   ]
